@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 , HBO
+http://pitelevision.com:1935/pitelevision/hbo23/playlist.m3u8
 #EXTINF:-1 ,Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,D sports
