@@ -23,6 +23,8 @@ https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 ,Ananda TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:-1 ,Gazi Tv
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
 #EXTINF:-1 ,Gazi Tv
