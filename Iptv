@@ -29,8 +29,6 @@ http://tv.ebox.live:8080/live/gazi-tv.m3u8
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,D sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 ,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,NTV
@@ -95,6 +93,8 @@ http://175.41.46.16:8081/hls/7.m3u8
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 ,Colors Bangla
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 ,Colors Bangla HD
 http://tv.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 ,Zee Bangla Cinema
@@ -121,6 +121,10 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 ,ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 ,Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 ,Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1 ,Color HD
 http://tv.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 ,Sony TV HD
@@ -155,7 +159,7 @@ http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,SONY MAX
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,SONY MAX HD
+#EXTINF:-1 ,Sony MaX HD
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1 ,Sony Max HD
 http://175.41.46.16:8081/hls/8.m3u8
@@ -171,8 +175,6 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 ,Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 ,SONY MAX 2
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 ,Zee Classic
@@ -181,6 +183,12 @@ http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 ,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 ,BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 ,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ,Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 ,Star Movies
 http://tv.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 ,Star Movies HD India
