@@ -1,1 +1,430 @@
+#EXTM3U
+#EXTINF:-1 ,Star Plus
+http://137.59.155.253:8088/hls/Star_Plus.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 ,Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 ,Sony TV HD
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,Sony TV HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Zee Tv HD
+http://103.205.133.19/hls/zeetv.m3u8
+#EXTINF:-1 ,Zee Tv HD
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,Zee TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 ,Colors
+http://137.59.155.253:8088/hls/Colors.m3u8
+#EXTINF:-1 ,Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 ,Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF:-1 ,Colors HD
+http://tv.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 ,Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 ,SONY SAB
+http://103.205.133.19/hls/sonysab.m3u8
+#EXTINF:-1 ,SONY SAB HD
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY SAB
+http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1 ,Sony Sab
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+
+
+#EXTINF:-1 ,Zee Bangla HD
+http://103.58.73.26/streams/107/index.m3u8
+#EXTINF:-1 ,Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1 ,Zee Bangla
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+#EXTINF:-1 ,Zee Bangla
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 ,Zee Bangla HD
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 ,Star Jalsha
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,Star Jalsha
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 ,Colors Bangla
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 ,Colors Bangla HD
+http://tv.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,SONY AATH
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+#EXTINF:-1 ,SONY AATH
+http://103.205.133.19/hls/sony8.m3u8
+
+
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Channel I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1 ,Channel I
+http://tv.ebox.live:8080/live/chi.m3u8
+#EXTINF:-1 ,NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 ,RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 ,RTV
+http://tv.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 ,Ekushey Tv
+http://175.41.46.16:8081/hls/11.m3u8
+#EXTINF:-1 ,Bangla Vision TV
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 ,Bangla Vision TV
+http://tv.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 ,Boishakhi TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1 ,Boishakhi tv
+http://tv.ebox.live:8080/live/boishakhi.m3u8
+#EXTINF:-1 ,Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Nagorik TV
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 ,Nagorik Tv
+http://175.41.46.16:8081/hls/12.m3u8
+#EXTINF:-1 ,SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1 ,Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1 ,ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://tv.ebox.live:8080/live/atnbd1.m3u8
+#EXTINF:-1 ,BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1 ,Gazi Tv
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 ,Gazi Tv
+http://tv.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF:-1 ,Maasranga TV
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 ,Maasranga TV
+http://tv.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 ,Maasranga TV
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1 ,Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 ,Channel 9
+http://tv.ebox.live:8080/live/channel9.m3u8
+
+
+#EXTINF:-1 ,Zee Bangla Cinema
+http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 ,Star Jalsha Movies
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,Star Jalsha Movies HD
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 ,Star Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 ,Star Jalsha Movies
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+
+#EXTINF:-1 ,Star Gold
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://tv.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 ,Star Gold
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ,Zee cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ,Zee Cinema HD
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,Sony Max
+http://103.205.133.19/hls/sonymax.m3u8
+#EXTINF:-1 ,Sony Max
+http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+#EXTINF:-1 ,Sony Max HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Sony Max
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Sony Max HD
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 ,Sony Max HD
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 ,Sony Max HD
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,Sony Wah
+http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Wah
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Sony Wah
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 ,Sony Max 2
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 ,Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 ,Zee BOLLYWOOD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 ,Zee Classic
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Classic
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 ,Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 ,BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 ,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+
+#EXTINF:-1 ,Star Movies
+http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 ,Star Movies HD India
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 ,Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1 ,Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 ,Sony Pix
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 ,Sony Pix HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Sony Pix
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 ,HBO HD
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 ,Star World HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 ,Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1 ,Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 ,Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1 ,Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 ,Color Infinity
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
+
+
+#EXTINF:-1 ,Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 ,Sony YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 ,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 ,Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CartoonNetwork
+https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Nick
+http://tv.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,Nick Bangla
+http://103.115.159.69:25461/live/asifmtbsl/asifmtbsl/87.m3u8
+#EXTINF:-1 ,Nick Sonic Bangla
+https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:-1 ,Nick JR.
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+
+#EXTINF:-1 ,Jamuna TV
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:-1 ,Jamuna tv
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,Somoy News
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1 ,Channel 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,Channel 24
+http://tv.ebox.live:8080/live/ch24youtube.m3u8
+#EXTINF:-1 ,News24 HD
+http://175.41.46.16:8081/hls/9.m3u8
+#EXTINF:-1 ,News24 HD
+http://tv.ebox.live:8080/live/news24.m3u8
+#EXTINF:-1 ,DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1 ,DBC News
+http://tv.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 ,Ekattor TV
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:-1 ,Ekattor TV
+http://tv.ebox.live:8080/live/ekattor1.m3u8
+#EXTINF:-1 ,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 ,ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1 ,ATN News
+http://tv.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+#EXTINF:-1 ,BBC World News
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+#EXTINF:-1 ,CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 ,DW
+https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+
+
+#EXTINF:-1 ,GaanBangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1 ,GaanBangla
+http://tv.ebox.live:8080/live/gan.m3u8
+#EXTINF:-1 ,Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 ,MTV Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 ,Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 ,Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1 ,Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+
+#EXTINF:-1 ,Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+EXTINF:-1 ,ATN Islamic TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 ,Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 ,Ananda TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+
+
+#EXTINF:-1 ,Star Sports 1
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,Star Sports 3
+http://tv.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 ,Star Sports Select 1
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,Star Sports Select 2
+http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,Sony Six
+http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 ,Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 ,Sony Six HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,Sony Six HD
+http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 ,Sony ESPN
+http://tv.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 ,SONY ESPN
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,Sony Ten 1
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 ,SONY TEN 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 ,Sony Ten 2
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 ,Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 ,Sony Ten 2
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,Sony Ten 3
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 ,Sony Ten 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 ,SonyTen 3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,Ten Sports
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 ,Willow Sports
+http://tv.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 ,D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 ,D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 ,Ptv Sports
+http://tv.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 ,PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 ,KSA Sports
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 501
+http://45.58.62.92:8080
+#EXTINF:-1 ,Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 ,Sky Sports Cricket
+http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,Sky Sports MIX
+http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 ,Bein Sports 1
+http://tv.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:-1 ,Bein Sports 2
+http://tv.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:-1 ,Bein Sports 11
+http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 ,Bein Sports 1 Fr
+http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
+
+
+#EXTINF:-1 ,Discovery
+http://tv.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1 ,Discovery
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 ,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,Animal Planet
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 ,National Geography
+http://tv.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 ,National Geographic
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1 ,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 ,National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 ,NatGeo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 ,Natgeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 ,NatGeo Wild
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1 ,NatGeo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1 ,NatGeo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 ,History
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 ,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 ,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 ,History_hindi
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 ,TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+
 
