@@ -24,6 +24,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ,&TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 ,Colors
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1 ,Colors
 http://137.59.155.253:8088/hls/Colors.m3u8
 #EXTINF:-1 ,Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
@@ -280,8 +282,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 ,Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 ,Color Infinity
-http://tv.ebox.live:8080/live/color-Infinity.m3u8
 
 
 
