@@ -34,6 +34,8 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1 ,Colors HD
 http://tv.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 ,Star Bharat
+http://103.205.133.19/hls/starbharat.m3u8
+#EXTINF:-1 ,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 ,SONY SAB
 http://103.205.133.19/hls/sonysab.m3u8
@@ -209,6 +211,8 @@ http://103.205.133.19/hls/zeecinema.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 ,Zee Cinema HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,Sony Max HD
+http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,Sony Max
 http://103.205.133.19/hls/sonymax.m3u8
 #EXTINF:-1 ,Sony Max
@@ -221,8 +225,6 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:-1 ,Sony Max HD
 http://175.41.46.16:8081/hls/8.m3u8
-#EXTINF:-1 ,Sony Max HD
-http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,Sony Wah
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Wah
@@ -254,6 +256,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1 ,MNX
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:-1,Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 ,Star Movies
 http://tv.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 ,Star Movies HD India
@@ -271,7 +275,11 @@ http://tv.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 ,Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,HBO HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
+#EXTINF:-1 ,HBO HD
 http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0,MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/147.m3u8
 #EXTINF:-1 ,Star World HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1 ,Star World
@@ -295,6 +303,12 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 ,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DISENY-CARTOON
+http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+#EXTINF:-1,CBeebies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
+#EXTINF:-1,CARTOON-NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 #EXTINF:-1 ,CartoonNetwork
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Nick
@@ -361,6 +375,8 @@ https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,ATN News
 http://tv.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1 ,Al Jazeera
+http://103.205.133.19/hls/aljazeera.m3u8
+#EXTINF:-1 ,Al Jazeera
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #EXTINF:-1 ,BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
@@ -377,10 +393,18 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 ,GaanBangla
 http://tv.ebox.live:8080/live/gan.m3u8
+#EXTINF:-1 ,9xm
+http://103.205.133.19/hls/9xm.m3u8
+#EXTINF:-1 ,9x Jalwa
+http://103.205.133.19/hls/9xmjalwa.m3u8
+#EXTINF:-1 ,9xO
+http://103.205.133.19/hls/9xo.m3u8
 #EXTINF:-1 ,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 ,MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 ,E24
+http://103.205.133.19/hls/e24.m3u8
 #EXTINF:-1 ,Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,Zoom
@@ -400,8 +424,7 @@ EXTINF:-1 ,ATN Islamic TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 ,Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 ,Ananda TV
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+
 
 
 
@@ -526,6 +549,8 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 ,History_hindi
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 ,TLC
+http://103.205.133.19/hls/tlc.m3u8
 #EXTINF:-1 ,TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
